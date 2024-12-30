@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Lisbon"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Leo Tolstoy",
+      "Mark Twain"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "who is your amma",
+    "options": [
+      "ram",
+      "shyam",
+      "ani",
+      "nothing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "who is your father",
+    "options": [
+      "teri amma ",
+      "ksjd",
+      "enstein",
+      "newton"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "who is your amma",
+    "options": [
+      "programming",
+      "shyam",
+      "ani",
+      "nothing"
+    ],
+    "answer": 4
+  }
+]
